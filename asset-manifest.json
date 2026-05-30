@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apex-detail/static/css/main.3c32779c.css",
+    "main.js": "/apex-detail/static/js/main.15987704.js",
+    "index.html": "/apex-detail/index.html",
+    "main.3c32779c.css.map": "/apex-detail/static/css/main.3c32779c.css.map",
+    "main.15987704.js.map": "/apex-detail/static/js/main.15987704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c32779c.css",
+    "static/js/main.15987704.js"
+  ]
+}
