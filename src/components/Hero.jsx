@@ -21,7 +21,7 @@ export default function Hero() {
         className={`hero-bg${loaded ? " loaded" : ""}`}
         style={{
           backgroundImage:
-            "url('images/hero-bg.jpg')",
+            `url('${process.env.PUBLIC_URL}/images/hero-bg.jpg')`,
         }}
       />
       <div className="hero-overlay" />
