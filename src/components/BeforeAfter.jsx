@@ -68,7 +68,7 @@ export default function BeforeAfter() {
             {/* BEFORE */}
             <div className="slider-before">
               <img
-                src="/images/before.jpg"
+                src="images/before.jpg"
                 alt="До полировки — тусклый кузов"
                 draggable={false}
                 style={{ filter: "saturate(0.5) brightness(0.7) contrast(1.2)" }}
@@ -81,7 +81,7 @@ export default function BeforeAfter() {
               style={{ clipPath: `inset(0 ${100 - sliderPos}% 0 0)` }}
             >
               <img
-                src="/images/after.jpg"
+                src="images/after.jpg"
                 alt="После полировки — зеркальный блеск"
                 draggable={false}
                 style={{ filter: "saturate(1.3) brightness(1.1) contrast(1.05)" }}
